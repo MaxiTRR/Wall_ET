@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Wall.ET</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit_text_hint_user">Ingrese su usuario</string>
+    <string name="edit_text_hint_password">Ingrese su contraseña</string>
+    <string name="tv_title_register">UNITE A WALL.ET</string>
+    <string name="tv_title_home">BIENVENIDO a tu Wall.ET!</string>
+    <string name="et_hint_nomApe">Nombre y Apellido</string>
+    <string name="et_hint_email">Email</string>
+    <string name="et_hint_dni">D.N.I.</string>
+    <string name="et_hint_tel">Número de Celular</string>
+    <string name="et_hint_pass">Contraseña</string>
+    <string name="et_hint_confirmPass">Confirmar Contraseña</string>
+    <string name="checkbox_text">Recordarme</string>
+    <string name="btn_registrate">REGISTRATE</string>
+    <string name="btn_login">INICIAR SESIÓN</string>
+
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+    <string name="toolbar_title">Wall.ET</string>
+
+    <!-- Titulos del menu drawable en Home-->
+    <string name="menu_nav_home_home">Home</string>
+    <string name="menu_nav_home_Deposit">Depositar</string>
+    <string name="menu_nav_home_Draw">Retirar</string>
+    <string name="menu_nav_home_Trans">Transferencia</string>
+    <string name="menu_nav_home_Plazo_Fijo">Plazo Fijo</string>
+    <string name="menu_nav_home_Exit">Cerrar Sesion</string>
+
+    <!-- Recursos para el fragment Depositar-->
+    <string name="deposit_hint">$</string>
+    <string name="deposit_btn">Depositar</string>
+
+    <!-- Recursos para el fragment Draw-->
+    <string name="draw_hint">$</string>
+    <string name="draw_btn">Retirar</string>
+    <string name="tv_title_retirar">Retirar</string>
+
+</resources>
